@@ -10,7 +10,7 @@ public class Interest extends Applet implements ItemListener,ActionListener
   Label l1,l2,l3;
   TextField t1,t2,t3,t4;
   CheckboxGroup rb;
-  Checkbox c,c1,c2,c3;
+  Checkbox c,c1;
   Button b;
 float result,i;
 public void init() 
